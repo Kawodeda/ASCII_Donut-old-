@@ -1,0 +1,9 @@
+﻿  main.cpp
+C:\Users\1\source\repos\Donut\Donut\main.cpp(11,18): warning C4838: Преобразование из "int" в "SHORT" требует сужающего преобразования.
+C:\Users\1\source\repos\Donut\Donut\main.cpp(11,21): warning C4838: Преобразование из "int" в "SHORT" требует сужающего преобразования.
+C:\Users\1\source\repos\Donut\Donut\main.cpp(61,14): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\1\source\repos\Donut\Donut\main.cpp(67,17): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\1\source\repos\Donut\Donut\main.cpp(127,10): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\1\source\repos\Donut\Donut\main.cpp(128,10): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\1\source\repos\Donut\Donut\main.cpp(135,12): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+  Donut.vcxproj -> C:\Users\1\source\repos\Donut\Debug\Donut.exe
